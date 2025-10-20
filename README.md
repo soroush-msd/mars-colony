@@ -15,7 +15,7 @@ SpaceZ, the last functioning aerospace company, has one shot left. A bold missio
 The mission is to generate enough greenhouse gases to warm the Red Planet and create a livable atmosphere fast.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ec86bce6-a0c0-4937-9a96-f397f2521b1b" alt="Mars Terraforming Stages" width="500"/>
+  <img src="https://github.com/user-attachments/assets/715ac1f2-9a6f-427a-aa73-bc4125ab75a7" alt="Mars Terraforming Stages" width="500"/>
   <br>
 </p>
 
